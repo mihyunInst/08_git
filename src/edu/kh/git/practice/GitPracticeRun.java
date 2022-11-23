@@ -3,11 +3,13 @@ package edu.kh.git.practice;
 public class GitPracticeRun {
 
 	public static void main(String[] args) {
-		System.out.println("¾È³çÇÏ¼¼¿ä~");
-		System.out.println("Git ¿¬½À¿ë ÆÄÀÏÀÔ´Ï´Ù!");
+		System.out.println("ì•ˆë…•í•˜ì„¸ìš”~");
+		System.out.println("Git ì—°ìŠµìš© íŒŒì¼ì…ë‹ˆë‹¤!");
 		
-		System.out.println("Çä ³Ê¹« ½Å±âÇØ¿ä!");
-		System.out.println("Á¤¸»·Î GitHub¿¡ ³» ÄÚµå°¡ ³ª¿Ã±î¿ä?");
+		System.out.println("í—‰ ë„ˆë¬´ ì‹ ê¸°í•´ìš”!");
+		System.out.println("ì •ë§ë¡œ GitHubì— ë‚´ ì½”ë“œê°€ ë‚˜ì˜¬ê¹Œìš”?");
+		
+		System.out.println("ì •ë§ ë‚˜ì™€ì„œ ë‚´ê°€ Githgubì—ì„œ ë³´ë‚´ë³¼ê²Œ~!");
 	}
 
 }
