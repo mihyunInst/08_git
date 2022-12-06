@@ -10,6 +10,7 @@ public class GitPracticeRun {
 		System.out.println("정말로 GitHub에 내 코드가 나올까요?");
 		
 		System.out.println("정말 나와서 내가 Githgub에서 보내볼게~!");
+		System.out.println("내가 다시 원격으로 보내볼게!!");
 	}
 
 }
